@@ -13,10 +13,7 @@ Backend run without error<br>
 Frontend : npm install react react-dom axios react-chartjs-2 chart.js <br>
 Frontend run without error<br>
 ![image](https://github.com/user-attachments/assets/711c9e2c-2081-4c61-b550-fd19959723c9) <br>
-
-
-
-
+Result : <br>
 ![image](https://github.com/user-attachments/assets/1c4ed7a6-59ed-4c76-9233-d32e7d5b6f07)
 
 
