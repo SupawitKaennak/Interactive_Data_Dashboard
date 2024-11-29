@@ -1,8 +1,9 @@
-Interactive_Data_Dashboard
+#Interactive_Data_Dashboard
 
 this program is a basic interactive dashboard for a data analyst to interact with a dataset. It allows the user to select a column.<br>
 
-Requirement program :<br>
+Requirement program : sqlite<br>
+https://www.sqlite.org/download.html<br>
 
 Requirement module :<br>
 Backend : npm install express sqlite3 cors <br>
